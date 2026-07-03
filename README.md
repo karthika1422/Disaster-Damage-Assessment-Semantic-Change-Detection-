@@ -36,6 +36,14 @@ python app.py
 ## Output
 The system generates GIS-compatible damage assessment outputs.
 
+project documents 
+
+
+project report : project report.pdf
+
+
+project presentation :project presentation.pptx
+
 ## Future Work
 The framework can be extended to include 3D reconstruction and advanced physical damage metrics when higher computational resources are available.
 
